@@ -1,2 +1,20 @@
 # Amazone-clone
-A front-end replica of the Amazon shopping website built with HTML, CSS, and JavaScript. Recreates Amazon’s homepage layout, navigation bar, and product grid to practice responsive web design and clean UI structuring.
+
+A front-end clone of the Amazon website built with HTML, CSS, and JavaScript. It replicates the core UI elements and layout of the Amazon homepage for learning and practice.
+
+# Features
+- Modern Amazon-style homepage layout
+- Product grid and category sections
+- Responsive design for all devices
+- Header, navigation bar, and footer similar to Amazon
+
+# Tech Stack
+- HTML5  
+- CSS3    
+
+# Screenshots
+(Add a screenshot of your homepage)
+
+# Live Demo
+[View Live Project](#)
+
